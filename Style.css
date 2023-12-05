@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet;
+  }
+  div {
+    background-color: black;
+    color: aqua;
+  }
+  .a {
+    font-size: 16px;
+  }
+  .b {
+    color: red;
+  }
+  .c {
+    text-transform: uppercase;
+  }
+  #first {
+    font-size: 50px;
+    display: block;
+  }
+  #second {
+    font-weight: bolder;
+  }
+  
